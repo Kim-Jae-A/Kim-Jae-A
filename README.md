@@ -13,7 +13,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Kim-Jae-A.Kim-Jae-A&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Kim-Jae-A.Kim-Jae-A&"/>
 </div>
 
 ###
@@ -26,7 +26,12 @@
 
 ###
 
-<p align="left">I'm KimJaea from SouthKorea<br><br>- 🔭 I worked as a six-month developer<br>- 📚 I'm currently learning Unity and C#<br>- ⚡ In my spare time, I play games or listen to Korean hip-hop</p>
+<p align="left">I'm KimJaea from SouthKorea<br>
+  My notion is 
+  <a href="https://goldenrod-decimal-46a.notion.site/ee35d02af72d41eb8bfda9ea019ab293?pvs=4" target="_blank">
+    KimJaeA
+  </a>
+  <br>- 🔭 I worked as a six-month developer<br>- 📚 I'm currently learning Unity and C#<br>- ⚡ In my spare time, I play games or listen to Korean hip-hop</p>
 
 ###
 
